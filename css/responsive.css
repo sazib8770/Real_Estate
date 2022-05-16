@@ -75,6 +75,9 @@
   .service_item img {
     margin-left: 0px;
   }
+  .footer_menu h6 {
+    margin-top: 20px;
+  }
 }
 
 /* Small devices (landscape phones, 576px and up) */
